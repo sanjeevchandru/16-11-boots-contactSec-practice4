@@ -1,0 +1,29 @@
+.title-row>span{
+    color: #8fc04e;
+    background-color: #f3f8ec;
+}
+.title-row h3>span{
+    color: #8fc04e ;
+}
+.cont-icon{
+    width: 50px;
+    height: 50px;
+    background-color: #f3f8ec;
+}
+.cont-icon i{
+    color: #8fc04e;
+}
+.contac-row:hover .cont-icon{
+    background-color: #8fc04e;
+    transition: all 0.5s ease;
+}
+.contac-row:hover .cont-icon i{
+    color: #fff;
+    transition: all 0.5s ease;
+}
+.right-card a{
+    background-color: #8fc04e;
+}
+.right-card a:hover{
+    filter: opacity(75%);
+}
